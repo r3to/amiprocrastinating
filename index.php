@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title>Am I Procrastinating?</title>
-  <meta name="description" content="This websites reliably tells you if you're procrastinating at the moment.'">
+  <meta name="description" content="This websites reliably tells you if you're procrastinating at the moment.">
 
   <meta name="viewport" content="width=device-width">
   <link rel="stylesheet" href="css/style.css">
